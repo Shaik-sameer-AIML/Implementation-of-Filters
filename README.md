@@ -32,7 +32,7 @@ Display all the images with their respective filters.
 
 ## Program:
 ### Developed By   :shaik sameer 
-### Register Number:2122212400
+### Register Number:212221240051
 ~~~
 import cv2
 import matplotlib.pyplot as plt
